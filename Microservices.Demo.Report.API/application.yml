@@ -1,2 +1,2 @@
 ConnectionStrings: 
-    ReportConnection: Data Source=localhost;Initial Catalog=Microservices.Demo.Policy;Persist Security Info=True;User ID=sa;Password=Password1234
+    ReportConnection: Data Source=localhost;Initial Catalog=Microservices.Demo.Policy;Persist Security Info=True;User ID=sa;Password=Master2020$
